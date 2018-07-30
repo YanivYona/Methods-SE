@@ -1,0 +1,22 @@
+#pragma once
+static short BORDER_OFFSET = 1;
+#define SINGLE_TOP_LEFT_CORNER '\xDA'
+#define SINGLE_TOP_RIGHT_CORNER '\xBF'
+#define SINGLE_BTM_LEFT_CORNER '\xC0'
+#define SINGLE_BTM_RIGHT_CORNER '\xD9'
+#define SINGLE_LINE_VERTICAL '\xB3'
+#define SINGLE_LINE_HORIZONTAL '\xC4'
+#define DOUBLE_TOP_LEFT_CORNER '\xC9'
+#define DOUBLE_TOP_RIGHT_CORNER '\xBB'
+#define DOUBLE_BTM_LEFT_CORNER '\xC8'
+#define DOUBLE_BTM_RIGHT_CORNER '\xBC'
+#define DOUBLE_LINE_VERTICAL '\xBA'
+#define DOUBLE_LINE_HORIZONTAL '\xCD'
+#define SYM_BULLET "( )"
+#define SYM_MARKER "<---"
+#define SYM_SPACE " "
+
+
+
+
+
